@@ -29,6 +29,4 @@ public class MerkleThread implements Runnable {
             }
         }
     }
-
-
 }
